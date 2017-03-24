@@ -5,6 +5,7 @@
 ## getting start
 
 ```bash
+npm install -g webpack-cli
 npm install
 ```
 
